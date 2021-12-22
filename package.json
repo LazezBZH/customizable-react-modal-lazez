@@ -1,5 +1,5 @@
 {
-  "name": "customizable-react-modal-lazez",
+  "name": "customizable-react-modal-by-lazez",
   "version": "0.1.0",
   "description": "customizable modal by lazez",
   "author": "LazezBzh",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LazezBZH/custumized-react-modal-lazez.git"
+    "url": "git+https://github.com/LazezBZH/customizable-react-modal-lazez.git"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",

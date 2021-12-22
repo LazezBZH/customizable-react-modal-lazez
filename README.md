@@ -7,10 +7,13 @@ Keep the default theme or chose your colors simply.
 
 ## Installation
 
-You can install this component with npm or yaarn:
+You can install this component with npm or yarn:
 
-npm i customized-react-modal-lazez
-yarn add customized-react-modal-lazez
+    npm i customized-react-modal-lazez
+
+or
+
+    yarn add customized-react-modal-lazezz
 
 ## Use in your React project
 
