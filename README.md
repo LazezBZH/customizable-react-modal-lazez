@@ -9,11 +9,11 @@ Keep the default theme or chose your colors simply.
 
 You can install this component with npm or yarn:
 
-    npm i customized-react-modal-lazez
+    npm i customizable-react-modal-by-lazez
 
 or
 
-    yarn add customized-react-modal-lazezz
+    yarn add customizable-react-modal-by-lazez
 
 ## Use in your React project
 
