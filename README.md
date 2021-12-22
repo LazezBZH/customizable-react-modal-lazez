@@ -1,4 +1,4 @@
-# A modal React component customize it with your faorites colors
+# A modal React component customize it with your favorite colors
 
 ## About
 
