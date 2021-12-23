@@ -1,6 +1,6 @@
 {
   "name": "customizable-react-modal-by-lazez",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "customizable modal by lazez",
   "author": "LazezBzh",
   "keywords": [
@@ -24,8 +24,8 @@
   "devDependencies": {
     "@babel/cli": "^7.16.0",
     "@babel/core": "^7.16.5",
-    "@babel/preset-env": "^7.16.5",
     "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.16.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
