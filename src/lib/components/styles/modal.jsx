@@ -47,14 +47,3 @@ export const ModalButton = styled.button`
     background-color: ${(props) => props.theme.buttonHoverBg};
   }
 `;
-
-export const defaultTheme = {
-  containerBg: "rgba(0, 0, 0, 0.5)",
-  messageBg: "#444444",
-  messageHoverBg: "#aebf8e",
-  messageHoverTxt: "black",
-  borderColor: "#d5db99",
-  buttonBg: "#d5db99",
-  buttonHoverBg: "#444444",
-  buttonHoverTxt: "white",
-};
