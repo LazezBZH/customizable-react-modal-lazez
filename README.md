@@ -21,7 +21,7 @@ Import the Modal component into the file
 
     import { Modal } from customized-react-modal-lazez
 
-## Example (fill App.js in a React project)
+## Example (file App.js in a React project)
 
     import { useState } from "react";
     import "./App.css";
@@ -71,7 +71,7 @@ Import the Modal component into the file
 
     export default App;
 
-### CSS for this example ( fill App.css not essential)
+### CSS for this example ( file App.css not essential)
 
     .App {
       width: 100vw;
