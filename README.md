@@ -15,6 +15,11 @@ or
 
     yarn add customizable-react-modal-by-lazez
 
+caution
+
+    You'll perhaps have to do npm start or yarn start again
+    so that it works in your project (it'll be opened in another port then)
+
 **NPM link**
 
 [customizable react modal by lazez on NPM](https://www.npmjs.com/package/customizable-react-modal-by-lazez)
