@@ -1,4 +1,4 @@
-# A modal React component customize it with your favorite colors
+# A modal React component, customize it with your favorite colors!
 
 ## About
 
@@ -14,6 +14,10 @@ You can install this component with npm or yarn:
 or
 
     yarn add customizable-react-modal-by-lazez
+
+**NPM link**
+
+[customizable react modal by lazez on NPM](https://www.npmjs.com/package/customizable-react-modal-by-lazez)
 
 ## Use in your React project
 
