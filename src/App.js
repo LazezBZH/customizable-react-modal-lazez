@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router-dom";
 import "./App.css";
 import Modal from "./lib/components/Modal";
 
@@ -29,6 +30,11 @@ function App() {
         <button type="submit" className="submit">
           Clic to open Modal
         </button>
+        <div className="back">
+          <a href="https://www.npmjs.com/package/customizable-react-modal-by-lazez">
+            Back to NPM
+          </a>
+        </div>
       </form>
 
       {openModal && (
